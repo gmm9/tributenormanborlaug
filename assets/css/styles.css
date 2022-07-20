@@ -1,0 +1,80 @@
+:root {
+    --cinza: #eee;
+}
+ *, *::before,*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+    display: flex;
+    justify-content: center;
+ }
+
+.background__cinza {
+    background-color: var(--cinza);
+    width: 100%;
+    margin-top: 1.5em;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-bottom: 1.5em;
+}
+.container__titulo {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+.container__texto {
+    padding-bottom: 1em;
+}
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.background__branco {
+    background-color: #fff;
+    width: 98%;
+
+}
+.container__imagem {
+    width: 75%;
+}
+.container__legenda {
+    padding: 1em 0;
+}
+.main__titulo {
+    padding: 2em 0;
+}
+.main__ul {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main__li {
+    width: 50%;
+    padding-bottom: 1em;
+}
+
+.main__span {
+    font-weight: bold;    
+}
+.centralizando {
+    width: 50%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: left;
+    margin-top: 1em;
+}
+.main__blockquote {
+    padding: 1em 0;
+    font-style: italic;
+    width: 80%;
+}
