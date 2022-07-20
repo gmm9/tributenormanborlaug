@@ -6,7 +6,7 @@ Todos creditos pela ideia da freeCodeCamp.
 
 Site: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
-Projeto Original: https://survey-form.freecodecamp.rocks/
+Projeto Original: https://tribute-page.freecodecamp.rocks/
 
 Meu projeto: https://gmm9.github.io/tributenormanborlaug/
 
